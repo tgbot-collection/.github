@@ -1,4 +1,4 @@
-# .github
+
 
 Hey there, this is a collection for all kinds of Telegram Bot.
 
@@ -9,9 +9,10 @@ You may find a lots of interesting bots here
 * ytdlbot: Download videos from Youtube and other platforms through a Telegram Bot
 * archiver: 🗜 Internet Archive: Wayback Machine bot
 
-
-# Sponsor
-
+<details> 
+	<summary>Want to support me?</summary>
+	<br>
+	
 * [Buy me a coffee](https://www.buymeacoffee.com/bennythink)
 * [Afdian](https://afdian.net/@BennyThink)
 * [GitHub Sponsor](https://github.com/sponsors/BennyThink)
@@ -25,3 +26,5 @@ Choose the currency and payment method that suits you.
 |--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
 | [USD](https://buy.stripe.com/cN203sdZB98RevC3cd) | [SEK](https://buy.stripe.com/bIYbMa9JletbevCaEE) | [CNY](https://buy.stripe.com/dR67vU4p13Ox73a6oq) |
 | ![](assets/USD.png)                              | ![](assets/SEK.png)                              | ![](assets/CNY.png)                              |
+
+</details>
